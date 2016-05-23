@@ -1,0 +1,28 @@
+name: Pavan Yatra 2016
+favicon: null
+layout_spectrum: 0.1319827006664127
+typography_spectrum: 0.722539973212406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3275742055848241
+  lightness: 0.1132399532943964
+  saturation: 0.7257207529619336
+  rhythmicContrast: 0.546525856712833
+purpose: []
